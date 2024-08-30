@@ -10,7 +10,8 @@
 BEGINNER LEVEL task
 Create a tO DO LIST WEBAPP
 ### project:-WEATHER DASHBOARD
-<img width="712" alt="TASK-2" src="https://github.com/user-attachments/assets/53e51546-ad72-4cc9-9339-3a946a471c92">
+![image](https://github.com/user-attachments/assets/c045e643-1f15-4569-84ec-93164bcdbc58)
+
 ### Objective:-
 Working :-
 You have to create a TODO LIST
